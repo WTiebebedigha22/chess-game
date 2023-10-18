@@ -28,9 +28,9 @@
   border-radius: 50%; width: 25px; height: 25px; max-width: 90%;
 }
 
-.square.piece-selected {background-color: cyan !important;}
+.square.piece-selected {background-color: blue !important;}
 
-.square.square-selected {background: orange !important;}
+.square.square-selected {background: green !important;}
 
 .square.capturable-selected {background: red !important;}
 
