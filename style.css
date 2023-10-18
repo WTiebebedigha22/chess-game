@@ -16,12 +16,12 @@
 }
 
 .square.white,
-.chess-piece i.black {background: white;}
+.chess-piece i.black {background: whitesmoke;}
 .square.black,
 .chess-piece i.white {background: black;}
 
 .chess-piece i.black {color: black !important; border:solid 1px black;}
-.chess-piece i.white {color: white !important; border:solid 1px white;}
+.chess-piece i.white {color: whitesmoke !important; border:solid 1px white;}
 
 .chess-piece i {
   padding: 1rem; font-size: 1.5rem; margin-top: 0.5rem;
